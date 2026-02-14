@@ -78,6 +78,6 @@ public:
         // Time complexity = O(log n)
         // Space Complexity = O(1)
     }
-};
+}; 
 
 // problem link: https://leetcode.com/problems/single-element-in-a-sorted-array/description/
